@@ -96,7 +96,7 @@ $('#yes').click(function() {
     var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: 'Nói cho anh lí do em thích anh đi :vvvv',
+        title: 'Nói cho anh lí do em thích anh đi :vvv',
         html: true,
         width: 900,
         padding: '3em',
@@ -121,11 +121,11 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Anh biết mà ^^ Yêu em 300.000',
+                title: 'Anh biết mà ^^ Yêu em 3000',
                 text: "Còn chờ gì nữa mà không inbox cho anh đi nào hehe :))))",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/minhhuy.le.923';
+                    window.location = 'https://www.facebook.com/leminhan00';
                   }
             })
         }

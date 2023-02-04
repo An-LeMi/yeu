@@ -1,3 +1,6 @@
+header {
+  padding-top: 20px;
+}
 .content {
     position: relative;
     z-index: 3;
